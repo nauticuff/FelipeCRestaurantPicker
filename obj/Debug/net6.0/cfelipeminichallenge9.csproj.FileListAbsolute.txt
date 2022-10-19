@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\bin\Debug\net6.0\cfelipeminichallenge9.exe
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\bin\Debug\net6.0\cfelipeminichallenge9.deps.json
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\bin\Debug\net6.0\cfelipeminichallenge9.runtimeconfig.json
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\bin\Debug\net6.0\cfelipeminichallenge9.dll
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\bin\Debug\net6.0\cfelipeminichallenge9.pdb
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\obj\Debug\net6.0\cfelipeminichallenge9.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\obj\Debug\net6.0\cfelipeminichallenge9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\obj\Debug\net6.0\cfelipeminichallenge9.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\obj\Debug\net6.0\cfelipeminichallenge9.AssemblyInfo.cs
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\obj\Debug\net6.0\cfelipeminichallenge9.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\obj\Debug\net6.0\cfelipeminichallenge9.dll
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\obj\Debug\net6.0\refint\cfelipeminichallenge9.dll
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\obj\Debug\net6.0\cfelipeminichallenge9.pdb
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\obj\Debug\net6.0\cfelipeminichallenge9.genruntimeconfig.cache
+C:\Users\User\Documents\CodingCombing22_23sp\MiniChallenges\cfelipeminichallenge9\obj\Debug\net6.0\ref\cfelipeminichallenge9.dll
