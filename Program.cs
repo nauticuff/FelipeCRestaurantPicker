@@ -1,8 +1,8 @@
 ﻿/*
 Carlos Felipe
 10/19/22
+Mini Challenge #9 - Restaurant Picker
 This code prints out a randomized restaurant from a restaurant category chosen by the user. 
-DONE
 */
 
 Console.Clear();
