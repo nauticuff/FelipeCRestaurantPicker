@@ -68,7 +68,7 @@ while(runChoice != "YES" && runChoice != "NO"){
 }
 if(runChoice == "NO"){
     run = false;
-    Console.WriteLine($"Enjoy eating at {chosenRestaurant}!");
+    Console.WriteLine($"Enjoy eating at {chosenRestaurant} mortal.");
 }
 }
 }
